@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: liyanan.lc
+Class-Path: lib/servlet-api-3.0-alpha-1.jar lib/mysql-connector-java-5
+ .1.13.jar lib/saxon-8.7.jar
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+Main-Class: theMainClass
+
